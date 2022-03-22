@@ -1,0 +1,8 @@
+class Hello
+{
+	static public void main(String as[])
+	{
+	System.out.println ("Welcome to Studytonight");
+	}
+}
+	
